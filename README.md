@@ -1,2 +1,2 @@
 # hello-world
-Ikasiko ditudan programazio lengoien ariketak
+Ikasiko ditudan programazio lenguaien ariketak
